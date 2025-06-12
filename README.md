@@ -17,3 +17,5 @@ This project automates testing of the [Burger King homepage](https://www.bk.com/
 ## 📅 Daily Update Policy
 
 > 🔁 Code is updated daily, including minor improvements, refactoring, or step additions, to ensure robustness and accuracy of automation.
+
+You can find a running log of daily updates in 
