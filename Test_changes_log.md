@@ -8,3 +8,8 @@
 # file = [`homepage.java`](./homepage.java).
 1. When the Homepage opens, it exits soon.
 2. Added some more duration to view the fully loaded Home page.
+
+# 18-June-2025
+# file = [`homepage.java`](./homepage.java).
+1. The Cookie Accept pop-up message.
+2. Clicking the Cookie setting button. and view the UI
