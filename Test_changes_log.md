@@ -17,4 +17,8 @@
 # 20-June-2025
 # file = [`homepage.java`](./homepage.java).
 1. After clicking the "Cookie Accept" pop-up, a message pops up for "Confirmed Cookie Choices."
-2. Clicking the "Confirmed Cookie Choices" button. and disappear the popup and view the Burger King homepage without any distrubances.
+2. Clicking the "Confirmed Cookie Choices" button. and disappear the pop-up and view the Burger King homepage without any disturbances.
+
+# 24-June-2025
+# file = [`homepage.java`](./homepage.java).
+1. Navigate to Menu page. 
