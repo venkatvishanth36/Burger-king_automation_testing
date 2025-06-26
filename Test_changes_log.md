@@ -21,4 +21,9 @@
 
 # 24-June-2025
 # file = [`homepage.java`](./homepage.java).
-1. Navigate to Menu page. 
+1. Navigate to the Menu page. 
+
+# 24-June-2025
+# file = [`homepage.java`](./homepage.java).
+1. After navigating to the Menu page, it's asking for the location address.
+2. Address type automatically.
